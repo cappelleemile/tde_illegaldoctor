@@ -6,7 +6,7 @@ Small FiveM script that adds an illegal doctor NPC. Players have to find him the
 
 ## Features  
 - **No blip, no guidance:** Players must discover the location through exploration or RP.
-- - **Multiple services:** Healing, revives, and energy boosts.  
+- **Multiple services:** Healing, revives, and energy boosts.  
 - **Immersive roleplay:** Adds depth and realism to criminal/underground RP scenes. 
 - **Optimized:** Lightweight script that won’t impact your server's performance.
 - **Free:** Completely free for the community.  
